@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0 auto; padding: o; list-style: none; text-decoration: none; height: auto; overflow: hidden; line-height: 1.4}
+body,html{overflow: auto}
+.zhuti{background:#CE8789;width: 1275px;height: 863px;}
+.zhujiemian1{background:#f0f0f0;width: 263px; height: 863px;float: left}
+.zhujiemian2{background: #6B1011;width: 1012px;height: 863px;float: right}
+.daohang{background: #f6f6f6;width: 1012px;height:110px;float: right}
+.guanggao1{background: #f6f6f6;width: 1012px;height: 362px;}
+.guanggao2{background: #f6f6f6;width: 1012px;height: 300px;}
+
+
+
+
+.jiantou{margin:43px 0px 50px 50px; float: left}
+.sousuo{float: left;margin: 35px 0px 50px 30px;}
+#sousuo1{border:1px solid #B0B0B0;text-align: center;background: url( "images/images/sousuo.gif") no-repeat center left #e3e3e3}
+
+.logo1{width: 21px;height: 22px;float: left;margin:43px 0px 50px 25px;}
+.w{float:right;margin:35px 40px 50px 0px;}
+.xm{color: #B0B0B0; font-size: 1em;float: right;margin:37px 20px 0 0 }
+.touxiang{width: 31px;height: 30px;float: right;margin: 33px 20px 50px 0px;}
+
+.zt{font-size: 3em;margin: 0 0 20px 50px;}
+.dangqin{ foncolor: #1ecc94; line-height:40px;}
+.guanggao1 a{ padding: 15px 40px 0 50px;font-weight: bolder;}
+
+.gg{width: 1012px;height: 210px;}
+.ggg1{margin:20px 0 0 0;float: left;width: 495px;height: 177px }
+.ggg2{margin:20px 0 0 0;float: right;width: 495px;height: 177px;margin-right: 20px}
+
+#dh1{display:none;}
+#dh2{display:none;background: #633839}
+#dh3{display:none;}
+#dh4{display:none;}
+#dh5{display:none;}
+#dh6{display:none;}
+
+.gfgd{font-size: 2em;margin: 0 0 0 50px;color:#4D4747}
+
+.yy1{float: left;margin-left: 50px;margin-top: 20px}
+.yy2{float: left;margin-left: 30px;margin-top: 20px}
+.yy3{float: left;margin-left: 30px;margin-top: 20px}
+.yy4{float: left;margin-left: 30px;margin-top: 20px}
+
+.qqyylogo{margin-left: 50px;margin-top: 38px;}
+
+.zxyy{margin: 60px 0 0 50px;color: #B0B0B0;font-size: 1.5em}
+.yyg{margin: 20px 0 0 50px;font-size: 2em}
+.sp{margin: 20px 0 0 50px;font-size: 2em}
+.dt{margin: 20px 0 0 50px;font-size: 2em}
+
+
